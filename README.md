@@ -44,3 +44,6 @@ or
 ```bash
 python Neural_Network.py
 ```
+
+## Status (as of 2026-09-06)
+Archived.
