@@ -1,8 +1,14 @@
 # Neural Network from Scratch
 
-A neural network built **entirely from scratch using only NumPy**.
+### A feed-forward neural network implemented entirely from scratch using only NumPy.
 
-The purpose of this project was to understand how neural networks actually work by implementing the underlying mathematics and training procedure myself, rather than relying on a machine-learning framework.
+> **Status: Archived / Early Experiment.**
+> This was an early study of neural-network fundamentals and is preserved as
+> part of my progression toward implementing larger models from first principles.
+
+The project was an early attempt to understand neural networks by implementing
+the underlying mathematics and training procedure directly rather than relying
+on a machine-learning framework.
 
 The implementation covers:
 
@@ -45,5 +51,4 @@ or
 python Neural_Network.py
 ```
 
-## Status (as of 2026-09-06)
-Archived.
+---
